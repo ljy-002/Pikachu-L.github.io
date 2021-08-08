@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by runner.han
- * There is nothing new under the sun
+ * 太阳底下没有新鲜事
  * */
 
 include_once 'inc/config.inc.php';
